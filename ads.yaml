@@ -1,0 +1,17 @@
+ads:
+  - id: 1
+    type: banner
+    size: "728x90"
+    advertiser: "Tech Gadgets Inc."
+    target_url: "https://www.techgadgetsinc.com"
+    active: true
+  - id: 2
+    type: sidebar
+    size: "300x250"
+    advertiser: "Book World Publishers"
+    target_url: "https://www.bookworldpublishers.com"
+    active: false
+
+
+    // "ads.id." + 1;
+
